@@ -5,3 +5,5 @@ random
 Enum, auto
 
 The project solves the Snake game using the Hamiltonian Cycle.
+
+run: python3 Game.py
